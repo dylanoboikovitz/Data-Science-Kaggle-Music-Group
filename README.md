@@ -1,0 +1,1 @@
+This is practice and sampling for the spotify best musicians using a spotify sample set. NOTE: Look at the actual physical data set to understand the columns and rows it refers to before doing anything coding wise.
